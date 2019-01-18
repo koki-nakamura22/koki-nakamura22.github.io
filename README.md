@@ -1,1 +1,1 @@
-hosting-test
+My pages.
