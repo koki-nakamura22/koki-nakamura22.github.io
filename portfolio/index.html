@@ -1,3 +1,92 @@
----
-redirect_from: "https://koki-nakamura22.github.io/portfolio/jQuery/"
----
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>Koki Nakamura's portfolio page</title>
+    <link
+      rel="stylesheet"
+      href="https://use.fontawesome.com/releases/v5.4.1/css/all.css"
+      integrity="sha384-5sAR7xN1Nv6T6+dT2mhtzEpVJvfS3NScPQTrOxhwjIuvcA67KV2R5Jz6kr4abQsz"
+      crossorigin="anonymous"
+    />
+    <link
+      href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,700"
+      rel="stylesheet"
+    />
+    <!-- Bulma Version 0.7.2-->
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.7.2/css/bulma.min.css"
+    />
+    <script async type="text/javascript" src="./js/bundle.js"></script>
+  </head>
+
+  <body>
+    <!-- Navigation bar -->
+    <div id="navigation-bar"></div>
+
+    <!-- Header -->
+    <div id="header"></div>
+
+    <!-- About -->
+    <div id="about-area"></div>
+    <section class="section" id="about">
+      <!-- Title -->
+      <div id="about-title"></div>
+
+      <div class="columns has-same-height is-gapless">
+        <div class="column">
+          <!-- Profile -->
+          <div id="profile" class="card"></div>
+        </div>
+        <div class="column">
+          <!-- Profile picture -->
+          <div id="profile-picture" class="card"></div>
+        </div>
+        <div class="column">
+          <!-- Skills -->
+          <div id="skills" class="card"></div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Skills tags -->
+    <br />
+    <div id="skills-tags"></div>
+
+    <!-- Services -->
+    <div id="services" class="section"></div>
+
+    <!-- Resume -->
+    <div id="resume"></div>
+
+    <!-- Projects -->
+    <div id="projects"></div>
+
+    <!-- Contact -->
+    <div id="contact"></div>
+
+    <!-- Footer -->
+    <div id="footer"></div>
+
+    <!-- Project dialog -->
+    <div id="project-modal" class="modal">
+      <div class="modal-background"></div>
+      <div class="modal-card">
+        <header class="modal-card-head">
+          <!-- <p class="modal-card-title"></p> -->
+          <div class="modal-card-title"></div>
+          <button class="delete" aria-label="close"></button>
+        </header>
+        <section class="modal-card-body">
+
+        </section>
+        <footer class="modal-card-foot">
+          <button id="close-dialog" class="button">Close</button>
+        </footer>
+      </div>
+    </div>
+  </body>
+</html>
