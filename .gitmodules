@@ -1,0 +1,4 @@
+[submodule "blog-test-hexo"]
+	path = blog-test-hexo
+	url = https://github.com/koki-nakamura22/blog-test-hexo.git
+	branch = master
