@@ -1,17 +1,15 @@
 {
-  "main.css": "/portfolio/static/css/main.3d26360e.chunk.css",
-  "main.js": "/portfolio/static/js/main.86285c95.chunk.js",
-  "main.js.map": "/portfolio/static/js/main.86285c95.chunk.js.map",
-  "runtime~main.js": "/portfolio/static/js/runtime~main.0fad4c0f.js",
-  "runtime~main.js.map": "/portfolio/static/js/runtime~main.0fad4c0f.js.map",
-  "static/css/2.36222c2d.chunk.css": "/portfolio/static/css/2.36222c2d.chunk.css",
-  "static/js/2.ac1af6c8.chunk.js": "/portfolio/static/js/2.ac1af6c8.chunk.js",
-  "static/js/2.ac1af6c8.chunk.js.map": "/portfolio/static/js/2.ac1af6c8.chunk.js.map",
-  "index.html": "/portfolio/index.html",
-  "precache-manifest.fcd32ca1c6694ba8572f2e2e46b8e64b.js": "/portfolio/precache-manifest.fcd32ca1c6694ba8572f2e2e46b8e64b.js",
-  "service-worker.js": "/portfolio/service-worker.js",
-  "static/css/2.36222c2d.chunk.css.map": "/portfolio/static/css/2.36222c2d.chunk.css.map",
-  "static/css/main.3d26360e.chunk.css.map": "/portfolio/static/css/main.3d26360e.chunk.css.map",
-  "static/media/Resume_KokiNakamura.docx": "/portfolio/static/media/Resume_KokiNakamura.48067a40.docx",
-  "static/media/self-face-photos.jpg": "/portfolio/static/media/self-face-photos.4f7e5dcb.jpg"
+  "files": {
+    "main.css": "/portfolio/static/css/main.fa508a3f.css",
+    "main.js": "/portfolio/static/js/main.f9aa00f1.js",
+    "static/media/self-face-photos.jpg": "/portfolio/static/media/self-face-photos.54154b46829d3814812d.jpg",
+    "static/media/Resume_KokiNakamura.docx": "/portfolio/static/media/Resume_KokiNakamura.814387e4796ef580a85b.docx",
+    "index.html": "/portfolio/index.html",
+    "main.fa508a3f.css.map": "/portfolio/static/css/main.fa508a3f.css.map",
+    "main.f9aa00f1.js.map": "/portfolio/static/js/main.f9aa00f1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fa508a3f.css",
+    "static/js/main.f9aa00f1.js"
+  ]
 }
