@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.cab10a08.css",
-    "main.js": "/portfolio/static/js/main.c9bcd2f5.js",
+    "main.js": "/portfolio/static/js/main.c13533e9.js",
     "static/media/self-face-photos.jpg": "/portfolio/static/media/self-face-photos.54154b46829d3814812d.jpg",
     "static/media/CV_KokiNakamura.docx": "/portfolio/static/media/CV_KokiNakamura.5bf45e92569568ea9df8.docx",
     "index.html": "/portfolio/index.html",
     "main.cab10a08.css.map": "/portfolio/static/css/main.cab10a08.css.map",
-    "main.c9bcd2f5.js.map": "/portfolio/static/js/main.c9bcd2f5.js.map"
+    "main.c13533e9.js.map": "/portfolio/static/js/main.c13533e9.js.map"
   },
   "entrypoints": [
     "static/css/main.cab10a08.css",
-    "static/js/main.c9bcd2f5.js"
+    "static/js/main.c13533e9.js"
   ]
 }
